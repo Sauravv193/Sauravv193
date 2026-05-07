@@ -9,8 +9,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://drive.google.com/file/d/12pdkb-kIoncpukfB5aYqYa81vO--nZve/view?usp=drive_link)"/>
-
+<img align="right" alt="Saurav Kumar Singh" width="300" src="https://drive.google.com/uc?export=view&id=12pdkb-kIoncpukfB5aYqYa81vO--nZve" style="border-radius: 15px; margin-left: 20px;"/>
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech **Computer Science Engineering** @ KIIT University *(2022–Present)*
