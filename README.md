@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="380" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://drive.google.com/file/d/12pdkb-kIoncpukfB5aYqYa81vO--nZve/view?usp=drive_link)"/>
 
 ### 👨‍💻 About Me
 
