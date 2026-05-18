@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey!%20I'm%20Saurav%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=17" width="100%"/>
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=Sauravv193&label=Profile%20Visits&color=0e75b6&style=for-the-badge)](https://github.com/Sauravv193)
 [![GitHub followers](https://img.shields.io/github/followers/Sauravv193?label=Followers&style=for-the-badge&color=0e75b6)](https://github.com/Sauravv193)
@@ -10,7 +9,7 @@
 ---
 
 <img align="right" width="300" src="saurav.jpg" style="border-radius: 15px;"/>
-### 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 B.Tech **Computer Science Engineering** @ KIIT University *(2022–Present)*
 - 📍 Based in **Mau, Uttar Pradesh, India**
@@ -24,7 +23,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+ 📊 My GitHub Stats
 
 <div align="center">
 
@@ -36,7 +35,7 @@
 
 ---
 
-## 🌐 Top Languages
+ 🌐 Top Languages
 
 <div align="center">
 
@@ -46,7 +45,7 @@
 
 ---
 
-## 🌸 Pinned Projects
+ 🌸 Pinned Projects
 
 <div align="center">
 
@@ -72,7 +71,7 @@
 
 ---
 
-## ✨ More About Me ✨
+ ✨ More About Me ✨
 
 <div align="center">
 
@@ -90,11 +89,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -103,7 +102,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+Frameworks & Libraries
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -111,14 +110,14 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Databases & Cloud**
+Databases & Cloud
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**AI/ML & Tools**
+AI/ML & Tools
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -131,7 +130,7 @@
 
 ---
 
-## 📈 Activity Graph
+ 📈 Activity Graph
 
 <div align="center">
 
@@ -141,7 +140,7 @@
 
 ---
 
-## 🤝 Connect with Me
+ 🤝 Connect with Me
 
 <div align="center">
 
