@@ -18,7 +18,7 @@ B.Tech CSE student at KIIT University | Full Stack Developer | AI/ML Enthusiast
 - Currently working on full stack and AI-powered projects
 - Learning Spring Boot, AWS and Machine Learning
 - Ask me about Java, JavaScript, React, Python, DSA
-- Reach me: sauravkumarsingh9991@gmail.com
+
 
 ---
 
@@ -34,13 +34,7 @@ Databases: PostgreSQL, MySQL, MongoDB
 
 
 
-GitHub Stats
 
-![Saurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sauravv193&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sauravv193&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/saurav-kumar-singh-511024252
